@@ -1,0 +1,5 @@
+D:\Unity\Github\Design-Pattern\obj\Debug\net5.0\Design-Pattern.csproj.AssemblyReference.cache
+D:\Unity\Github\Design-Pattern\obj\Debug\net5.0\Design-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\Github\Design-Pattern\obj\Debug\net5.0\Design-Pattern.AssemblyInfoInputs.cache
+D:\Unity\Github\Design-Pattern\obj\Debug\net5.0\Design-Pattern.AssemblyInfo.cs
+D:\Unity\Github\Design-Pattern\obj\Debug\net5.0\Design-Pattern.csproj.CoreCompileInputs.cache
