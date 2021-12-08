@@ -24,7 +24,6 @@ scv.HP = 100;
 scv.Attack = 10;
 
 // === 아래와 같이 최초로 생성했던 scv로부터 Clone() 하여 내용 수정 === //
-
 SCV scvClone = (SCV)scv.Clone();
 scv.HP = 60;
 scv.Attack = 5;
