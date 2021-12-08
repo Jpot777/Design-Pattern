@@ -1,0 +1,16 @@
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\Observer_Pattern.csproj.AssemblyReference.cache
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\Observer_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\Observer_Pattern.AssemblyInfoInputs.cache
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\Observer_Pattern.AssemblyInfo.cs
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\Observer_Pattern.csproj.CoreCompileInputs.cache
+D:\Unity\Github\Design-Pattern\Observer_Pattern\bin\Debug\net5.0\Observer_Pattern.exe
+D:\Unity\Github\Design-Pattern\Observer_Pattern\bin\Debug\net5.0\Observer_Pattern.deps.json
+D:\Unity\Github\Design-Pattern\Observer_Pattern\bin\Debug\net5.0\Observer_Pattern.runtimeconfig.json
+D:\Unity\Github\Design-Pattern\Observer_Pattern\bin\Debug\net5.0\Observer_Pattern.runtimeconfig.dev.json
+D:\Unity\Github\Design-Pattern\Observer_Pattern\bin\Debug\net5.0\Observer_Pattern.dll
+D:\Unity\Github\Design-Pattern\Observer_Pattern\bin\Debug\net5.0\ref\Observer_Pattern.dll
+D:\Unity\Github\Design-Pattern\Observer_Pattern\bin\Debug\net5.0\Observer_Pattern.pdb
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\Observer_Pattern.dll
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\ref\Observer_Pattern.dll
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\Observer_Pattern.pdb
+D:\Unity\Github\Design-Pattern\Observer_Pattern\obj\Debug\net5.0\Observer_Pattern.genruntimeconfig.cache
