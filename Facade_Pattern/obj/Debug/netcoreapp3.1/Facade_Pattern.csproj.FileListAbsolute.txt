@@ -1,0 +1,12 @@
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.deps.json
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.runtimeconfig.json
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.runtimeconfig.dev.json
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.dll
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.pdb
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.csprojAssemblyReference.cache
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.AssemblyInfoInputs.cache
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.AssemblyInfo.cs
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.csproj.CoreCompileInputs.cache
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.dll
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.pdb
+/Users/yman/Documents/GitHub/Design-Pattern/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.genruntimeconfig.cache
